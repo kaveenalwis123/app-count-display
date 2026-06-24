@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574420893378",
+    "project_id": "load-cell-a4a8c",
+    "storage_bucket": "load-cell-a4a8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574420893378:android:98d0ed38931d9c396f855b",
+        "android_client_info": {
+          "package_name": "loadcell.proejct"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA58b-HfeOJenHvDwoZy4EsTTFzIabdupA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
